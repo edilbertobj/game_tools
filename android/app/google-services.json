@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066269547308",
+    "project_id": "game-tool-db353",
+    "storage_bucket": "game-tool-db353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066269547308:android:2bea7ee8a141740859ea89",
+        "android_client_info": {
+          "package_name": "com.flutter.game_tools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066269547308-m2jvrt1uv9ettig9gq4d4nf9djumd200.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTB6SNONJv5BCEdzwIro1mBBw_qY-jeFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066269547308-m2jvrt1uv9ettig9gq4d4nf9djumd200.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
